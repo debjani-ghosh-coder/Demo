@@ -1,4 +1,4 @@
 # Demo
 For demonstartion
 <br>
-Author: Debjani
+Author: Debjani Ghosh
